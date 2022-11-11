@@ -1,4 +1,4 @@
-﻿ # Whatsapp Super Fast Filter Pro
+ # Whatsapp Super Fast Filter Pro
 
 # DOWNLOAD: https://bit.ly/wafastfilter
 
@@ -18,20 +18,20 @@
 <h2><strong> Amazing Features</strong></h2>
 <ul>
 
-       <li><p><strong>✅Installation file</strong></p></li>
-	   <li><p><strong>✅Support account login</strong></p></li>
-	   <li><p><strong>✅Support account swtich</strong></p></li>
-	   <li><p><strong>✅Fast Bulk Generator Phone Number</strong></p></li>
-	   <li><p><strong>✅Support import your phone number list</strong></p></li>
-	   <li><p><strong>✅Fast Bulk Filter Whatsapp Number </strong></p></li>
-	   <li><p><strong>✅Export your Filter Result</strong></p></li>
-	   <li><p><strong>✅Export a list of valid whatsapp numbers</strong></p></li>
-	   <li><p><strong>✅Generate list of phone numbers in real-time</strong></p></li>
-       <li><p><strong>✅Real-time whatsapp number verification</strong></p></li>
-	   <li><p><strong>✅Real-time Filter Report</strong></p></li>
-	   <li><p><strong>✅Real-time display of Filter results</strong></p></li>
-	   <li><p><strong>✅Account Protection Settings</strong></p></li>
-	   <li><p><strong>✅You can set filter delays to protect your account</strong></p></li>
+      ✅Installation file
+	  ✅Support account login
+	  ✅Support account swtich
+	  ✅Fast Bulk Generator Phone Number
+	  ✅Support import your phone number list
+	  ✅Fast Bulk Filter Whatsapp Number 
+	  ✅Export your Filter Result
+	  ✅Export a list of valid whatsapp numbers
+	  ✅Generate list of phone numbers in real-time
+      ✅Real-time whatsapp number verification
+	  ✅Real-time Filter Report
+	  ✅Real-time display of Filter results
+	  ✅Account Protection Settings
+	  ✅You can set filter delays to protect your account
 </ul>
 
 <h2><strong>Screenshot</strong></h2>
@@ -47,19 +47,7 @@
 <p>we provide a installation file  easy-to-use</p>
 
  
-
  
-<h2><strong>Online Support</strong></h2>
-<table>
-<tr>
-
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
 
  
  
