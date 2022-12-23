@@ -16,5 +16,9 @@ namespace Whatsapp_Bulk_Filter
         {
             InitializeComponent();
         }
+        
+        private void Test()
+        {}
+      
     }
 }
