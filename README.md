@@ -94,26 +94,16 @@
 <table>
 <tr>
    <td>
-      <a href="mailto:ionicstudio@hotmail.com" target="_blank">
-         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
+      <a href="mailto:ionicstudio@hotmail.com"  target="_blank">
+         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0"/>
     </a>
   </td>
    
     <td>
       <a href="https://t.me/captainC999" rel="nofollow" target="_blank">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
+       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0"/>
     </a>
    </td>
 </tr>
 </table>
-
-
-
-
-
- 
-
- 
- 
- 
  
