@@ -42,9 +42,8 @@ a large number of whatsapp target customers!</p>
 <img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 6.0.1-pricelist" border="0"/>
 
 
-<h2><strong> Amazing Features</strong></h2>
+ # Amazing Features 
  
-
        <p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p>
 	   <p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p>
 	   <p><strong>✅Modern UI</strong>--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness</p>
