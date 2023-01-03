@@ -43,7 +43,7 @@ a large number of whatsapp target customers!</p>
 
 
 <h2><strong> Amazing Features</strong></h2>
-<ul>
+ 
 
        <p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p>
 	   <p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p>
@@ -70,7 +70,7 @@ a large number of whatsapp target customers!</p>
 	   <p><strong>✅Support Deutsch (Deutschland) language </strong></p>
 	   <p><strong>✅Support Français (France) language </strong></p>
 	   <p><strong>✅Support 简体中文 language </strong></p>
-</ul>
+ 
 
 <h2><strong>Screenshot</strong></h2>
 <img src="https://i.ibb.co/QnDJ5Mh/01.png" alt="Whatsapp Super Fast Filter Pro-01" border="0">
