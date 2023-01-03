@@ -45,31 +45,31 @@ a large number of whatsapp target customers!</p>
 <h2><strong> Amazing Features</strong></h2>
 <ul>
 
-       <li><p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p></li>
-	   <li><p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p></li>
-	   <li><p><strong>✅Modern UI</strong>--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness</p></li>
-	   <li><p><strong>✅Account login</strong>---Scan the QR code to login to your whatsapp</p></li>
-	   <li><p><strong>✅Account session Save</strong>---Automatically save your whatsapp login session(No need to scan QR repeatedly)</p></li>
-	   <li><p><strong>✅Account swtich</strong>---Support multiple whatsapp accounts to switch at will</p></li>
-	   <li><p><strong>✅Phone Number Bulk Generator</strong>---Quickly and batch generate phone numbers of any country</p></li>
-	   <li><p><strong>✅Import Phone List</strong>---Support import your phone number list</p></li>
-	   <li><p><strong>✅Fast Filter</strong>---It only takes 1 second to filter 2000 whatsapp contacts</p></li>
-	   <li><p><strong>✅Bulk Filter</strong>---Fast Bulk Filter Whatsapp contacts </p></li>
-	   <li><p><strong>✅Unlimited</strong>(No filtering unlimited and lifetime)</p></li>
-	   <li><p><strong>✅Export All</strong>---Export your Filter Result</p></li>
-	   <li><p><strong>✅Export valid</strong>---Wxport valid whatsapp contact list</p></li>
-	   <li><p><strong>✅Export invalid</strong>---export invalid whatsapp contact list</p></li>
-       <li><p><strong>✅Real-time Filter</strong></p>---Real-time whatsapp number verification | Filter</li>
-	   <li><p><strong>✅Filter Report</strong>---Real-time Filter Report</p></li>
-	   <li><p><strong>✅Filter results</strong>---Real-time display of Filter results</p></li>
-	   <li><p><strong>✅<strong>No-Ban</strong>(Account Protect your account from banned)</p></li>
-	   <li><p><strong>✅Filter delays</strong>(Support custom filter delay settings)</p></li>
-	   <li><p><strong>✅Support multiple languages </strong></p></li>
-	   <li><p><strong>✅Support English Language </strong></p></li>
-	   <li><p><strong>✅Support Italiano language </strong></p></li>
-	   <li><p><strong>✅Support Deutsch (Deutschland) language </strong></p></li>
-	   <li><p><strong>✅Support Français (France) language </strong></p></li>
-	   <li><p><strong>✅Support 简体中文 language </strong></p></li>
+       <p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p>
+	   <p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p>
+	   <p><strong>✅Modern UI</strong>--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness</p>
+	   <p><strong>✅Account login</strong>---Scan the QR code to login to your whatsapp</p>
+	   <p><strong>✅Account session Save</strong>---Automatically save your whatsapp login session(No need to scan QR repeatedly)</p>
+	   <p><strong>✅Account swtich</strong>---Support multiple whatsapp accounts to switch at will</p>
+	   <p><strong>✅Phone Number Bulk Generator</strong>---Quickly and batch generate phone numbers of any country</p>
+	   <p><strong>✅Import Phone List</strong>---Support import your phone number list</p>
+	   <p><strong>✅Fast Filter</strong>---It only takes 1 second to filter 2000 whatsapp contacts</p>
+	   <p><strong>✅Bulk Filter</strong>---Fast Bulk Filter Whatsapp contacts </p>
+	   <p><strong>✅Unlimited</strong>(No filtering unlimited and lifetime)</p>
+	   <p><strong>✅Export All</strong>---Export your Filter Result</p>
+	   <p><strong>✅Export valid</strong>---Wxport valid whatsapp contact list</p>
+	   <p><strong>✅Export invalid</strong>---export invalid whatsapp contact list</p>
+       <p><strong>✅Real-time Filter</strong></p>---Real-time whatsapp number verification | Filter
+	   <p><strong>✅Filter Report</strong>---Real-time Filter Report</p>
+	   <p><strong>✅Filter results</strong>---Real-time display of Filter results</p>
+	   <p><strong>✅<strong>No-Ban</strong>(Account Protect your account from banned)</p>
+	   <p><strong>✅Filter delays</strong>(Support custom filter delay settings)</p>
+	   <p><strong>✅Support multiple languages </strong></p>
+	   <p><strong>✅Support English Language </strong></p>
+	   <p><strong>✅Support Italiano language </strong></p>
+	   <p><strong>✅Support Deutsch (Deutschland) language </strong></p>
+	   <p><strong>✅Support Français (France) language </strong></p>
+	   <p><strong>✅Support 简体中文 language </strong></p>
 </ul>
 
 <h2><strong>Screenshot</strong></h2>
