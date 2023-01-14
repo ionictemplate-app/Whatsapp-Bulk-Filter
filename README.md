@@ -2,10 +2,11 @@
 
 # DOWNLOAD: https://bit.ly/wafastfilter
 
-# telegram: https://t.me/IonicSupport
+# telegram: @IonicSupport
 # whatsapp:+1 315 629 9582
 
- <h2><strong>Whatsapp Super Fast Filter Pro 6.0.1---with multiple languages</strong></h2>
+
+<h2><strong>Whatsapp Super Fast Filter Pro 8.2.0---with multiple languages</strong></h2>
 <p>✅<strong>Whatsapp Super Fast Filter Pro</strong> can help you quickly filter more than <strong>100,000</strong> numbers per hour!</p>
 <p>✅<strong>Whatsapp Super Fast Filter Pro</strong> let's you to filter 2000 contacts in 1 second very easily and quickly</p>
 <p>✅Our tool helps you batch generate phone numbers for any country in the world</p>
@@ -15,13 +16,15 @@
 <p><strong>✅Support multiple languages </strong></p>
 <p>✅Automatically update chromedriver to match your local browser version</p>
 <p>✅We provide online guide video to learn <strong>how to use in 1 minute</strong></p>
+<p>When you import your own phone number list, <strong>you don't need to check whether your phone number list is correct, 
+the program will automatically help you check and format your phone number list</strong></p>
 
 
- <a href="https://api.whatsapp.com/send/?phone=85265898516"  target="_blank">
-  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Super Fast Filter Pro 6.0.1-onlinehelp1" border="0"/>
+ <a href="https://api.whatsapp.com/send/?phone=13156299582"  target="_blank">
+  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Super Fast Filter Pro 8.2.0-onlinehelp1" border="0"/>
  </a>
  
-<h2><strong>Why do you Need Whatsapp Super Fast Filter Pro 6.0.1?</strong></h2>
+<h2><strong>Why do you Need Whatsapp Super Fast Filter Pro 8.2.0?</strong></h2>
 <p>By using our software, you no longer have to worry about not being able to find target users. Our software helps you quickly acquire 
 a large number of whatsapp target customers!</p>
 <p>Help you filter more than 100,000+ valid customers every day, fast and easy!</p>
@@ -29,47 +32,49 @@ a large number of whatsapp target customers!</p>
 
   
 <h2><strong>Online Video Demo</strong></h2>
-  <a href="https://youtu.be/OH-6VRrC1x0" target="_blank">
+  <a href="https://youtu.be/a6QMGocoR30" target="_blank">
      <img src="https://i.ibb.co/xzxBQWw/ytbdemo.png" alt="Whatsapp Super Fast Filter Pro2-video demo" />
   </a>
   <a href="https://youtu.be/OH-6VRrC1x0" target="_blank">
        <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Whatsapp Super Fast Filter Pro2-video demo" />
   </a>
 
-<img src="https://i.ibb.co/CKKm8Ph/progress1.png" alt="Whatsapp Super Fast Filter Pro 6.0.1-progress1" border="0"/>
+<img src="https://i.ibb.co/CKKm8Ph/progress1.png" alt="Whatsapp Super Fast Filter Pro 8.2.0-progress1" border="0"/>
 
-<img src="https://i.ibb.co/Q8mDPGN/descpriton.png" alt="Whatsapp Super Fast Filter Pro 6.0.1-descpriton" border="0"/>
-<img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 6.0.1-pricelist" border="0"/>
+<img src="https://i.ibb.co/Q8mDPGN/descpriton.png" alt="Whatsapp Super Fast Filter Pro 8.2.0-descpriton" border="0"/>
+<img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 8.2.0-pricelist" border="0"/>
 
 
- # Amazing Features 
- 
-       <p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p>
-	   <p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p>
-	   <p><strong>✅Modern UI</strong>--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness</p>
-	   <p><strong>✅Account login</strong>---Scan the QR code to login to your whatsapp</p>
-	   <p><strong>✅Account session Save</strong>---Automatically save your whatsapp login session(No need to scan QR repeatedly)</p>
-	   <p><strong>✅Account swtich</strong>---Support multiple whatsapp accounts to switch at will</p>
-	   <p><strong>✅Phone Number Bulk Generator</strong>---Quickly and batch generate phone numbers of any country</p>
-	   <p><strong>✅Import Phone List</strong>---Support import your phone number list</p>
-	   <p><strong>✅Fast Filter</strong>---It only takes 1 second to filter 2000 whatsapp contacts</p>
-	   <p><strong>✅Bulk Filter</strong>---Fast Bulk Filter Whatsapp contacts </p>
-	   <p><strong>✅Unlimited</strong>(No filtering unlimited and lifetime)</p>
-	   <p><strong>✅Export All</strong>---Export your Filter Result</p>
-	   <p><strong>✅Export valid</strong>---Wxport valid whatsapp contact list</p>
-	   <p><strong>✅Export invalid</strong>---export invalid whatsapp contact list</p>
-       <p><strong>✅Real-time Filter</strong></p>---Real-time whatsapp number verification | Filter
-	   <p><strong>✅Filter Report</strong>---Real-time Filter Report</p>
-	   <p><strong>✅Filter results</strong>---Real-time display of Filter results</p>
-	   <p><strong>✅<strong>No-Ban</strong>(Account Protect your account from banned)</p>
-	   <p><strong>✅Filter delays</strong>(Support custom filter delay settings)</p>
-	   <p><strong>✅Support multiple languages </strong></p>
-	   <p><strong>✅Support English Language </strong></p>
-	   <p><strong>✅Support Italiano language </strong></p>
-	   <p><strong>✅Support Deutsch (Deutschland) language </strong></p>
-	   <p><strong>✅Support Français (France) language </strong></p>
-	   <p><strong>✅Support 简体中文 language </strong></p>
- 
+<h2><strong> Amazing Features</strong></h2>
+<ul>
+
+       <li><p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p></li>
+	   <li><p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p></li>
+	   <li><p><strong>✅Modern UI</strong>--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness</p></li>
+	   <li><p><strong>✅Account login</strong>---Scan the QR code to login to your whatsapp</p></li>
+	   <li><p><strong>✅Account session Save</strong>---Automatically save your whatsapp login session(No need to scan QR repeatedly)</p></li>
+	   <li><p><strong>✅Account swtich</strong>---Support multiple whatsapp accounts to switch at will</p></li>
+	   <li><p><strong>✅Phone Number Bulk Generator</strong>---Quickly and batch generate phone numbers of any country</p></li>
+	   <li><p><strong>✅Import Phone List</strong>---Support import your phone number list</p></li>
+	   <li><p><strong>✅Fast Filter</strong>---It only takes 1 second to filter 2000 whatsapp contacts</p></li>
+	   <li><p><strong>✅Bulk Filter</strong>---Fast Bulk Filter Whatsapp contacts </p></li>
+	   <li><p><strong>✅Unlimited</strong>(No filtering unlimited and lifetime)</p></li>
+	   <li><p><strong>✅Export All</strong>---Export your Filter Result</p></li>
+	   <li><p><strong>✅Export valid</strong>---Wxport valid whatsapp contact list</p></li>
+	   <li><p><strong>✅Export invalid</strong>---export invalid whatsapp contact list</p></li>
+       <li><p><strong>✅Real-time Filter</strong></p>---Real-time whatsapp number verification | Filter</li>
+	   <li><p><strong>✅Filter Report</strong>---Real-time Filter Report</p></li>
+	   <li><p><strong>✅Filter results</strong>---Real-time display of Filter results</p></li>
+	   <li><p><strong>✅<strong>No-Ban</strong>(Account Protect your account from banned)</p></li>
+	   <li><p><strong>✅Filter delays</strong>(Support custom filter delay settings)</p></li>
+	   <li><p><strong>✅Phone Number Format</strong> Automatically format any phone number into a numeric-only number format</p></li> 
+	   <li><p><strong>✅Support multiple languages </strong></p></li>
+	   <li><p><strong>✅Support English Language </strong></p></li>
+	   <li><p><strong>✅Support Italiano language </strong></p></li>
+	   <li><p><strong>✅Support Deutsch (Deutschland) language </strong></p></li>
+	   <li><p><strong>✅Support Français (France) language </strong></p></li>
+	   <li><p><strong>✅Support 简体中文 language </strong></p></li>
+</ul>
 
 <h2><strong>Screenshot</strong></h2>
 <img src="https://i.ibb.co/QnDJ5Mh/01.png" alt="Whatsapp Super Fast Filter Pro-01" border="0">
@@ -121,6 +126,13 @@ One of the most common way to run a program with a UAC prompt to elevate privile
 
 <h2><strong>How to deal with long-time verification without response?</strong></h2>
 <p>Please update your whatsapp version to the latest official version</P>
+
+ 
+ 
+
+ 
+ 
+ 
 
  
  
