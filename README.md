@@ -2,10 +2,10 @@
 
 # DOWNLOAD: https://bit.ly/wafastfilter
 
-# telegram: @IonicSupport
-# whatsapp:+1 315 629 9582
+# telegram: https://t.me/IonicSupport
+# whatsapp:+13156299582
 
-<h2><strong>Welcome to Whatsapp Super Fast Filter Pro 8.2.3---with multiple languages</strong></h2>
+<h2><strong>Welcome to Whatsapp Super Fast Filter Pro 8.2.7---with multiple languages</strong></h2>
 <p>Whatsapp Super Fast Filter Pro is a powerful tool for businesses and organizations that need to keep track of their contacts. 
 This feature allows businesses to filter out a large list of contacts quickly and easily, 
 saving time and resources. It offers a variety of filters that can be used to weed out contacts that are not relevant to the business.
@@ -26,9 +26,9 @@ the program will automatically help you check and format your phone number list<
 
 
 
-<img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 8.2.1-pricelist" border="0"/>
+<img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-pricelist" border="0"/>
  <a href="https://api.whatsapp.com/send/?phone=13156299582"  target="_blank">
-  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Super Fast Filter Pro 8.2.1-onlinehelp1" border="0"/>
+  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-onlinehelp1" border="0"/>
  </a>
  
 
@@ -40,13 +40,13 @@ the program will automatically help you check and format your phone number list<
        <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Whatsapp Super Fast Filter Pro2-video demo" />
   </a>
 
-<img src="https://i.ibb.co/CKKm8Ph/progress1.png" alt="Whatsapp Super Fast Filter Pro 8.2.1-progress1" border="0"/>
+<img src="https://i.ibb.co/CKKm8Ph/progress1.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-progress1" border="0"/>
 
-<img src="https://i.ibb.co/Q8mDPGN/descpriton.png" alt="Whatsapp Super Fast Filter Pro 8.2.1-descpriton" border="0"/>
+<img src="https://i.ibb.co/Q8mDPGN/descpriton.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-descpriton" border="0"/>
 
 
 
-<h2><strong>Why do you Need Whatsapp Super Fast Filter Pro 8.2.2?</strong></h2>
+<h2><strong>Why do you Need Whatsapp Super Fast Filter Pro 8.2.7?</strong></h2>
 <p>By using our software, you no longer have to worry about not being able to find target users. Our software helps you quickly acquire 
 a large number of whatsapp target customers!</p>
 <p>Help you filter more than 100,000+ valid customers every day, fast and easy!</p>
@@ -103,72 +103,4 @@ This help marketers segment their target audiences more effectively and personal
 <img src="https://i.ibb.co/BKZbd6V/08.png" alt="Whatsapp Super Fast Filter Pro08" border="0">
 
 
-<h2><strong> How To Install</strong></h2>
-<p>we provide a installation file  easy-to-use</p>
 
- <h2><strong>About Sourcecode</strong></h2>
- <a href="https://t.me/IonicSupport" rel="nofollow" target="_blank">
-      <img src="https://i.ibb.co/G986kks/sourcecode.png" alt="Social Network Data Scraper Pro-Sourcecode" border="0"/>
- </a>
-
-
-<h2><strong>About Resell</strong></h2>
-<p>To facilitate your resell, we provide you with <strong>ready-to-use license management tools! 
- Start your money-making journey now.</strong></p>
- <a href="https://t.me/IonicSupport" rel="nofollow" target="_blank">
-      <img src="https://i.ibb.co/0G3WGzH/resell.png" alt="Social Network Data Scraper Pro-Resell" border="0"/>
- </a>
-  <a href="https://t.me/IonicSupport" rel="nofollow">
-    <img src="https://i.ibb.co/FzhZN8L/license-Tools.png" alt="Social Network Data Scraper Pro license-Tools" border="0">
-  </a>
-  
- <h2><strong>Review</strong></h2>
-<p>hi bro, your review gives us<strong> unlimited power to update</strong>, please don't forget the <strong>5-star review!</strong></p>
-  <a href="https://codecanyon.net/item/whatsapp-super-fast-filter-pro/reviews/40995521" rel="nofollow">
-   <img src="https://i.ibb.co/fCMcDQh/review.png" alt="Whatsapp Super Fast Filter Pro06 5 star review" border="0"/>
-  </a>
-
- <h2><strong>FAQ</strong></h2>
-<h2><strong>How to deal with long-time filter without response?</strong></h2>
-<p>Please update your whatsapp version to the latest official version</P>
-
-<h2><strong> Why is my filter not working??</strong></h2>
-<p>Please use the latest version of the official whatsapp, do not use the beta version!
-Sometimes your IP service provider is blocked by whatsapp, you can try to switch IP
-</P>
- 
-
-
-
-
-
-<h3><strong>Update Logs</strong></h3>
-- V8.2.2 ( 2023 Feb 11)
- <pre>
-   --Update:Last whatsapp api
-   --Update:Ui display issue
-- V8.2.1 ( 2023 Jan 18)
- <pre>
-   --Update:30% increase in filtering speed
-   --Fixed:loading show issue
- </pre>
- - V8.2.0 ( 2023 Jan 11)
- <pre>
-   --Update:Support to the latest version of chorme driver 109
-   --Add:add log file
- </pre>
-  - V8.1.0 ( 2023 Jan 10)
- <pre>
-   --Update:Optimize filtering speed
-   --Update:Support input number verification|filter
- </pre>
-  - V7.0.1 ( 2023 Jan 05)
- <pre>
-   --Fixed:Import Phone Number(Automatically format any phone number into a numeric-only number format)
-   --Update:Improvement of documentation
- </pre>
-  - V6.0.1 ( 2022 Dec 25)
- 
-
- 
- 
