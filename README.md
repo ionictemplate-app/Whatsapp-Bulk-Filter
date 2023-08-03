@@ -2,10 +2,9 @@
 
 # DOWNLOAD: https://bit.ly/wafastfilter
 
-# telegram: https://t.me/IonicSupport
 # whatsapp:+13156299582
 
-<h2><strong>Welcome to Whatsapp Super Fast Filter Pro 8.2.7---with multiple languages</strong></h2>
+<h2><strong>Welcome to Whatsapp Super Fast Filter Pro 8.3.4---with multiple languages</strong></h2>
 <p>Whatsapp Super Fast Filter Pro is a powerful tool for businesses and organizations that need to keep track of their contacts. 
 This feature allows businesses to filter out a large list of contacts quickly and easily, 
 saving time and resources. It offers a variety of filters that can be used to weed out contacts that are not relevant to the business.
@@ -26,9 +25,9 @@ the program will automatically help you check and format your phone number list<
 
 
 
-<img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-pricelist" border="0"/>
+<img src="https://i.ibb.co/JK93n7m/pricelist.png" alt="Whatsapp Super Fast Filter Pro 8.3.4-pricelist" border="0"/>
  <a href="https://api.whatsapp.com/send/?phone=13156299582"  target="_blank">
-  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-onlinehelp1" border="0"/>
+  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Super Fast Filter Pro 8.3.4-onlinehelp1" border="0"/>
  </a>
  
 
@@ -40,24 +39,24 @@ the program will automatically help you check and format your phone number list<
        <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Whatsapp Super Fast Filter Pro2-video demo" />
   </a>
 
-<img src="https://i.ibb.co/CKKm8Ph/progress1.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-progress1" border="0"/>
+<img src="https://i.ibb.co/CKKm8Ph/progress1.png" alt="Whatsapp Super Fast Filter Pro 8.3.4-progress1" border="0"/>
 
-<img src="https://i.ibb.co/Q8mDPGN/descpriton.png" alt="Whatsapp Super Fast Filter Pro 8.2.7-descpriton" border="0"/>
+<img src="https://i.ibb.co/Q8mDPGN/descpriton.png" alt="Whatsapp Super Fast Filter Pro 8.3.4-descpriton" border="0"/>
 
 
 
-<h2><strong>Why do you Need Whatsapp Super Fast Filter Pro 8.2.7?</strong></h2>
+<h2><strong>Why do you Need Whatsapp Super Fast Filter Pro 8.3.4?</strong></h2>
 <p>By using our software, you no longer have to worry about not being able to find target users. Our software helps you quickly acquire 
 a large number of whatsapp target customers!</p>
 <p>Help you filter more than 100,000+ valid customers every day, fast and easy!</p>
 <p>Multi-language support, no matter which country you come from, you can use our tools conveniently!</p>
-<p>WhatsApp Bulk Filter is a tool used to filter and segment large lists of WhatsApp contacts into smaller, 
-more manageable lists. It allows users to filter contacts based on their country, language, 
-and other criteria, such as the number of messages they have sent or received. 
+<p><strong>Whatsapp Super Fast Filter Pro</strong> is a tool used to filter and segment large lists of WhatsApp contacts into smaller, 
+more manageable lists. It allows users to filter contacts based on their country. 
 This help marketers segment their target audiences more effectively and personalize their messaging.</p>
-<p>Improved Efficiency – With WhatsApp Bulk Filter Contacts Pro, businesses can quickly and easily filter out unwanted contacts, reducing the time and effort spent on this task. This makes it easier to focus on the contacts that are most important to the business.</p>
+
+<p>Improved Efficiency – With <strong>Whatsapp Super Fast Filter Pro</strong>, businesses can quickly and easily filter out unwanted contacts, reducing the time and effort spent on this task. This makes it easier to focus on the contacts that are most important to the business.</p>
 <p>Increased Reach – By filtering out unwanted contacts, businesses can reach a larger audience by targeting only the contacts that are most likely to respond. This can help businesses to increase their reach and get more customers.</p>
-<p>Improved Targeting – By using the filters offered by WhatsApp Bulk Filter Contacts Pro, businesses can target specific contacts that are most likely to be interested in their products or services. This makes it easier to target the right customers and get more conversions</p>
+<p>Improved Targeting – By using the filters offered by <strong>Whatsapp Super Fast Filter Pro</strong>, businesses can target specific contacts that are most likely to be interested in their products or services. This makes it easier to target the right customers and get more conversions</p>
   
   
 <h2><strong> Amazing Features</strong></h2>
@@ -101,6 +100,156 @@ This help marketers segment their target audiences more effectively and personal
 <img src="https://i.ibb.co/jy7dd9y/05.png" alt="Whatsapp Super Fast Filter Pro05" border="0">
 <img src="https://i.ibb.co/YQ3k2ZS/06.png" alt="Whatsapp Super Fast Filter Pro06" border="0">
 <img src="https://i.ibb.co/BKZbd6V/08.png" alt="Whatsapp Super Fast Filter Pro08" border="0">
+
+
+<h2><strong> How To Install</strong></h2>
+<p>we provide a installation file  easy-to-use</p>
+
+ <h2><strong>About Sourcecode</strong></h2>
+ <a href="https://t.me/IonicSupport" rel="nofollow" target="_blank">
+      <img src="https://i.ibb.co/G986kks/sourcecode.png" alt="Social Network Data Scraper Pro-Sourcecode" border="0"/>
+ </a>
+
+
+<h2><strong>About Resell</strong></h2>
+<p>To facilitate your resell, we provide you with <strong>ready-to-use license management tools! 
+ Start your money-making journey now.</strong></p>
+ <a href="https://t.me/IonicSupport" rel="nofollow" target="_blank">
+      <img src="https://i.ibb.co/0G3WGzH/resell.png" alt="Whatsapp Super Fast Filter Pro-Resell" border="0"/>
+ </a>
+  <a href="https://t.me/IonicSupport" rel="nofollow">
+    <img src="https://i.ibb.co/FzhZN8L/license-Tools.png" alt="Whatsapp Super Fast Filter Pro license-Tools" border="0">
+  </a>
+  
+ 
+ <h2><strong>FAQ</strong></h2>
+<h2><strong>How to deal with long-time filter without response?</strong></h2>
+<p>Please update your whatsapp version to the latest official version</P>
+
+
+
+
+<h2><strong>Online Support</strong></h2>
+ 
+<table>
+<tr>
+   <td>
+      <a href="mailto:ionicstudio@hotmail.com">
+         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
+    </a>
+  </td>
+   <td>
+       <a href="https://api.whatsapp.com/send/?phone=13156299582" rel="nofollow">
+     <img src="https://i.ibb.co/RHKvqBS/wa2.png" alt="wa2" border="0">
+    </a>
+   </td>
+</tr>
+</table>
+
+
+
+
+
+<h3><strong>Update Logs</strong></h3>
+- V8.3.4(05 August 2023 )
+ <pre>
+   --Update:Download driver permission problem
+ </pre>
+- V8.3.3 (22 July 2023 )
+ <pre>
+   --Add:Arabic
+ </pre>
+- V8.3.2 (2023 July 1 )
+ <pre>
+   --fixed:auth issue
+ </pre>
+- V8.3.1 ( 2023 June  16)
+ <pre>
+   --fixed:filter issue
+ </pre>
+- V8.2.9 ( 2023 June  14)
+ <pre>
+   --Update:to last whataspp cloud api
+   --Update: last driver
+   --fixed:Quantity display problem
+ </pre>
+- V8.2.8 ( 2023 May 05)
+ <pre>
+   --Update:to last whataspp cloud api
+   --fixed: fixed delay settings
+ </pre>
+- V8.2.7 ( 2023 Mar 26)
+ <pre>
+   --Update:to last whataspp cloud api
+   --add: delay settings
+ </pre>
+ 
+- V8.2.5 ( 2023 Mar 16)
+ <pre>
+   --Fixed:filter result display issue
+ </pre>
+ - V8.2.4 ( 2023 Mar 01)
+ <pre>
+   --Update:last api
+ </pre>
+- V8.2.2 ( 2023 Feb 11)
+ <pre>
+   --Update:Last whatsapp api
+   --Update:Ui display issue
+ </pre>
+- V8.2.1 ( 2023 Jan 18)
+ <pre>
+   --Update:30% increase in filtering speed
+   --Fixed:loading show issue
+ </pre>
+ - V8.2.0 ( 2023 Jan 11)
+ <pre>
+   --Update:Support to the latest version of chorme driver 109
+   --Add:add log file
+ </pre>
+  - V8.1.0 ( 2023 Jan 10)
+ <pre>
+   --Update:Optimize filtering speed
+   --Update:Support input number verification|filter
+ </pre>
+  - V7.0.1 ( 2023 Jan 05)
+ <pre>
+   --Fixed:Import Phone Number(Automatically format any phone number into a numeric-only number format)
+   --Update:Improvement of documentation
+ </pre>
+  - V6.0.1 ( 2022 Dec 25)
+ <pre>
+   --Add:Support multiple languages
+   --Fixed:Export Issue 
+   --Update:Increase verification delay to strengthen account security
+ </pre>
+  - V5.0.1 ( 2022 Dec 11)
+ <pre>
+   --Update:Auto save login session
+   --Update:Automatically match any browser version 
+ </pre>
+  - V3.0.3 ( 2022 Dec 09)
+ <pre>
+   --Update:Auto save login session
+   --Update:Automatically match any browser version 
+ </pre>
+  - V3.0.2 ( 2022/11/26)
+ <pre>
+   --Update:Adapt to the latest version of whatsapp
+   --Add:Built-in auto-update
+ </pre>
+  - V2.0.0 ( 2022/11/13)
+ <pre>
+  --Fixed:UI thread Issue
+ </pre>
+  - V1.0.0 ( 2022/11/12)
+ <pre>
+  --Add:Initial version
+ </pre>
+
+ 
+ 
+
 
 
 
